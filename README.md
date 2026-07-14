@@ -14,7 +14,7 @@
 </p>
 
 
-<pre><b>TL;DR</b>: ReSet resolves class confusion and imprecise localization in prototype-based few-shot object detection by constructing text-anchored semantic prototypes and refining boxes with stage-aligned hierarchical ViT features.</pre>
+<b>TL;DR</b>: ReSet resolves class confusion and imprecise localization in prototype-based few-shot object detection by constructing text-anchored semantic prototypes and refining boxes with stage-aligned hierarchical ViT features.
 
 
 ## Environment
