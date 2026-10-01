@@ -169,14 +169,13 @@ vit=l task=fsod dataset=voc split=3 shot=5 bash scripts/eval.sh
 ## Citation
 
 ```
-@misc{heo2026rethinkingprototypebasedsimilaritylearning,
-      title={Rethinking Prototype-based Similarity Learning for Few-Shot Object Detection},
-      author={KunHo Heo and Seungjae Kim and Wongyu Lee and SuYeon Kim and MyeongAh Cho},
-      year={2026},
-      eprint={2606.23069},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2606.23069},
+@inproceedings{heo2026rethinking,
+  title={Rethinking prototype-based similarity learning for few-shot object detection},
+  author={Heo, KunHo and Kim, Seungjae and Lee, Wongyu and Kim, SuYeon and Cho, MyeongAh},
+  booktitle={European Conference on Computer Vision},
+  pages={554--571},
+  year={2026},
+  organization={Springer}
 }
 ```
 
